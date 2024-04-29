@@ -1,0 +1,68 @@
+[
+  {
+    "nome": "Vinycius Canto",
+    "cargo": "Instrutor",
+    "cpf": "123.456.789-00",
+    "email": "carlos@example.com",
+    "telefone": "(11) 98765-4321",
+    "data_contratacao": "2022-01-10",
+    "salario": 10500,
+    "habilidades": [
+      "FullStack"
+    ],
+    "id": 1
+  },
+  {
+    "nome": "Vinycius Canuto",
+    "cargo": "Instrutor",
+    "cpf": "123.456.789-00",
+    "email": "carlos@example.com",
+    "telefone": "(11) 98765-4321",
+    "data_contratacao": "2022-01-10",
+    "salario": 1000,
+    "habilidades": [
+      "FullStack"
+    ],
+    "id": 2
+  },
+  {
+    "nome": "Vinycius Canuto",
+    "cargo": "Instrutor",
+    "cpf": "123.456.789-00",
+    "email": "carlos@example.com",
+    "telefone": "(11) 98765-4321",
+    "data_contratacao": "2022-01-10",
+    "salario": 10000,
+    "habilidades": [
+      "FullStack"
+    ],
+    "id": 3
+  },
+  {
+    "nome": "Ednor junior",
+    "cargo": "Instrutor",
+    "cpf": "123.456.789-00",
+    "email": "carlos@example.com",
+    "telefone": "(11) 98765-4321",
+    "data_contratacao": "2022-01-10",
+    "salario": 5000,
+    "habilidades": [
+      "FullStack"
+    ],
+    "id": 4
+  },
+  {
+    "nome": "Ingryd Canuto",
+    "cargo": "Instrutor",
+    "cpf": "123.456.789-00",
+    "email": "carlos@example.com",
+    "telefone": "(11) 98765-4321",
+    "data_contratacao": "2022-01-10",
+    "salario": 1000,
+    "habilidades": [
+      "HTML",
+      "CSS"
+    ],
+    "id": 5
+  }
+]
